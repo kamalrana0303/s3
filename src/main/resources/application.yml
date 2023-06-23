@@ -1,0 +1,5 @@
+aws:
+  region: us-west-2
+  s3:
+    buckets:
+      product: kamal-product-images
